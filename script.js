@@ -7,7 +7,6 @@ function del() {
     forms.display.value = war.substring(0, war.length - 1);
 }
 
-
 function ac() {
     forms.display.value = "";
 }
