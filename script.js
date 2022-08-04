@@ -2,7 +2,6 @@ function calc(a) {
     forms.display.value += a;
 }
 
-
 function del() {
     var war = forms.display.value;
     forms.display.value = war.substring(0, war.length - 1);
